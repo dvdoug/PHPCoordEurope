@@ -1,0 +1,10 @@
+/.idea
+/build
+/docs/_build
+/vendor
+
+/composer.lock
+/.php_cs.cache
+/.phpunit.result.cache
+
+/resources/epsg/
