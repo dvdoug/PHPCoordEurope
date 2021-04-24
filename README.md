@@ -1,32 +1,25 @@
-PHPCoord
-========
+PHPCoord high-accuracy addon datapack for Europe
+================================================
 
-[![Build Status](https://github.com/dvdoug/PHPCoord/workflows/CI/badge.svg?branch=master)](https://github.com/dvdoug/PHPCoord/actions?query=workflow%3ACI+branch%3Amaster)
-[![Download count](https://img.shields.io/packagist/dt/php-coord/php-coord.svg)](https://packagist.org/packages/php-coord/php-coord)
-[![Current version](https://img.shields.io/packagist/v/php-coord/php-coord.svg)](https://packagist.org/packages/php-coord/php-coord)
-[![Documentation](https://readthedocs.org/projects/phpcoord/badge/?version=master)](https://phpcoord.net/en/stable/)
+[![Build Status](https://github.com/dvdoug/PHPCoordEurope/workflows/CI/badge.svg?branch=master)](https://github.com/dvdoug/PHPCoordEurope/actions?query=workflow%3ACI+branch%3Amaster)
+[![Download count](https://img.shields.io/packagist/dt/php-coord/datapack-europe.svg)](https://packagist.org/packages/php-coord/datapack-europe)
+[![Current version](https://img.shields.io/packagist/v/php-coord/datapack-europe.svg)](https://packagist.org/packages/php-coord/datapack-europe)
+[![Documentation](https://readthedocs.org/projects/phpcoord/badge/?version=master)](https://www.phpcoord.net/en/stable/coordinate_conversions_easy.html#accuracy)
 
-PHPCoord is a PHP library to aid in handling coordinates. It can convert coordinates for a point from one system
-to another and also calculate distance between points.
-
-6000+ different coordinate systems are supported, covering the entire globe. Common systems supported include:
- - WGS84 (GPS)
- - OSGB36 (Great Britain)
- - NAD27 and NAD83 (North America)
- - UTM (Universal Transverse Mercator)
- - ED50 and ETRS89 (Europe)
- - GDA94 and GDA2020 (Australia)
- - NZGD49 and NZGD2000 (New Zealand)
+This is a supplementary package for [PHPCoord](https://www.phpcoord.net), which is a PHP library to aid in handling
+coordinates. It can convert coordinates for a point from one system to another and also calculate distance between
+points. This particular add-on provides additional data relating to coordinate systems used in Europe.
 
 Documentation
 -------------
-[Documentation and usage examples are available here](https://phpcoord.net/en/stable/).
+More information on PHPCoord datapacks [is available here](https://www.phpcoord.net/en/stable/coordinate_conversions_easy.html#accuracy).
 
 Installation
 ------------
-If you use [Composer](http://getcomposer.org/), just add `php-coord/php-coord` to your project's `composer.json` file:
+If you use [Composer](http://getcomposer.org/), just add `php-coord/datapack-europe` to your project's `composer.json` file:
 ```
-    composer require php-coord/php-coord
+    composer require php-coord/datapack-europe
 ```
 
-Otherwise, the library is PSR-4 compliant, so will work with the autoloader of your choice.
+Otherwise, the library is PSR-4 compliant, so will work with the autoloader of your choice. No configuration is
+necessary once installed
