@@ -1,5 +1,5 @@
 {
-    "name": "php-coord/php-coord-datapack-europe",
+    "name": "php-coord/datapack-europe",
     "description": "PHPCoord high-accuracy addon datapack for Europe",
     "keywords": ["coord", "geo", "latitude", "longitude", "grid ref", "map", "projection", "wgs84", "osgb36", "utm", "nad", "nzmg", "gda", "ed50", "epsg", "europe"],
     "type": "library",
