@@ -10,7 +10,7 @@
             "role": "Developer"
         }
     ],
-    "license": "(MIT and proprietary)",
+    "license": "(MIT and BSD-2-Clause and proprietary)",
     "require": {
         "php": "^7.3||^8.0",
         "php-coord/php-coord": "^4.3"
