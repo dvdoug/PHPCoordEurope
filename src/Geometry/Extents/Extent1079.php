@@ -9,7 +9,7 @@ declare(strict_types=1);
 namespace PHPCoord\Geometry\Extents;
 
 /**
- * Europe-FSU/Czech Republic.
+ * Europe-FSU/Czechia.
  * @internal
  */
 class Extent1079

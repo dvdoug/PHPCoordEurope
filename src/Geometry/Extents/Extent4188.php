@@ -9,7 +9,7 @@ declare(strict_types=1);
 namespace PHPCoord\Geometry\Extents;
 
 /**
- * Europe-FSU/Spain and Gibraltar - mainland onshore.
+ * Europe-FSU/Spain and Gibraltar - onshore.
  * @internal
  */
 class Extent4188

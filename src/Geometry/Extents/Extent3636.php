@@ -9,7 +9,7 @@ declare(strict_types=1);
 namespace PHPCoord\Geometry\Extents;
 
 /**
- * Europe-FSU/Norway - onshore - west of 6ºE.
+ * Europe-FSU/Norway - onshore - west of 6°E.
  * @internal
  */
 class Extent3636
