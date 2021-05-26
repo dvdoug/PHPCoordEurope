@@ -10,7 +10,7 @@ namespace PHPCoord\CoordinateOperation;
 
 class OSTN15OSGM15Provider implements GridProvider
 {
-    private $cache;
+    private OSTNOSGM15Grid $cache;
 
     public function provideGrid(): OSTNOSGM15Grid
     {
