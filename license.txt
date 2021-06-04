@@ -216,3 +216,25 @@ For these and/or other purposes and motivations, and without any expectation of 
         c. Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
         d. Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
 
+
+NTv2 grid from Staatsbetrieb Geobasisinformation und Vermessung Sachsen GeoSN https://www.landesvermessung.sachsen.de/download-5608.html
+Data licence Germany – attribution – version 2.0
+
+(1) Any use will be permitted provided it fulfils the requirements of this "Data licence Germany – attribution – Version 2.0".
+
+The data and meta-data provided may, for commercial and non-commercial use, in particular
+
+    be copied, printed, presented, altered, processed and transmitted to third parties;
+    be merged with own data and with the data of others and be combined to form new and independent datasets;
+    be integrated in internal and external business processes, products and applications in public and non-public electronic networks.
+
+(2) The user must ensure that the source note contains the following information:
+
+    the name of the provider,
+    the annotation "Data licence Germany – attribution – Version 2.0" or "dl-de/by-2-0" referring to the licence text available at www.govdata.de/dl-de/by-2-0, and
+    a reference to the dataset (URI).
+
+This applies only if the entity keeping the data provides the pieces of information 1-3 for the source note.
+
+(3) Changes, editing, new designs or other amendments must be marked as such in the source note.
+
