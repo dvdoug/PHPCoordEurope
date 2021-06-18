@@ -14,6 +14,6 @@ class NTv2LV03LV95SwitzerlandProvider implements GridProvider
 
     public function provideGrid(): NTv2Grid
     {
-        return $this->cache ??= new NTv2Grid(__DIR__ . '/../../resources/CHENyx06a.gsb');
+        return $this->cache ??= new NTv2Grid(__DIR__ . '/../../resources/CHENYX06a.gsb');
     }
 }
