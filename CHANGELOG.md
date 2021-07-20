@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Added
+- IGN grid file for Metropolitan France
 
 ## [1.1.0] - 2021-06-24
 ### Added
