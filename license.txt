@@ -242,6 +242,7 @@ This applies only if the entity keeping the data provides the pieces of informat
 
 
 GR3DF97A grid from IGN France (https://geodesie.ign.fr/contenu/fichiers/gr3df97a.txt, downloaded 20210603)
+Height grids from IGN France (https://geodesie.ign.fr/index.php?page=grilles, downloaded 20210919)
 LICENCE OUVERTE / OPEN LICENCE
 
 ===================================================================
