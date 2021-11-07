@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class IGNESHeightETRS89REDNAPCanaryIslandsProvider implements GridProvider
 {
-    private IGNESHeightGrid $cache;
-
     public function provideGrid(): IGNESHeightGrid
     {
-        return $this->cache ??= new IGNESHeightGrid(__DIR__ . '/../../resources/EGM08_REDNAP_Canarias.txt');
+        return new IGNESHeightGrid(__DIR__ . '/../../resources/EGM08_REDNAP_Canarias.txt');
     }
 }

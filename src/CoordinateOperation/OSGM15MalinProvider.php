@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class OSGM15MalinProvider implements GridProvider
 {
-    private OSGM15IrelandGrid $cache;
-
     public function provideGrid(): OSGM15IrelandGrid
     {
-        return $this->cache ??= new OSGM15IrelandGrid(__DIR__ . '/../../resources/OSGM15_Malin.gri');
+        return new OSGM15IrelandGrid(__DIR__ . '/../../resources/OSGM15_Malin.gri');
     }
 }

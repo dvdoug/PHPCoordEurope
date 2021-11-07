@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class IGNFGeocentricTranslationNTFRGF93Provider implements GridProvider
 {
-    private IGNFGeocentricTranslationGrid $cache;
-
     public function provideGrid(): IGNFGeocentricTranslationGrid
     {
-        return $this->cache ??= new IGNFGeocentricTranslationGrid(__DIR__ . '/../../resources/gr3df97a.txt');
+        return new IGNFGeocentricTranslationGrid(__DIR__ . '/../../resources/gr3df97a.txt');
     }
 }

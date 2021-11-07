@@ -10,10 +10,8 @@ namespace PHPCoord\CoordinateOperation;
 
 class IGNFHeightRGF93v2NGFIGN78CorsicaProvider implements GridProvider
 {
-    private IGNFHeightGrid $cache;
-
     public function provideGrid(): IGNFHeightGrid
     {
-        return $this->cache ??= new IGNFHeightGrid(__DIR__ . '/../../resources/RAC09.mnt');
+        return new IGNFHeightGrid(__DIR__ . '/../../resources/RAC09.mnt');
     }
 }
