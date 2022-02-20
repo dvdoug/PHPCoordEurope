@@ -79,7 +79,7 @@ Vermerk den Bezug herstellen
 
 Grids from Instituto Geográfico Nacional, Institut Cartogràfic i Geològic de Catalunya,
 Bundesamt für Eich- und Vermessungswesen, LVGL Saarland, Direção-Geral do Território,
-Nationaal Geografisch Instituut/Nicolas Simon, Landmælingar Íslands,
+Nationaal Geografisch Instituut/Nicolas Simon/GFZ Data Services, Landmælingar Íslands,
 Nederlandse Samenwerking Geodetische Infrastructuur, GKU Bratislava and Statens Kartverk
 Creative Commons Attribution 4.0 International
 
