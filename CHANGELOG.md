@@ -4,6 +4,7 @@
 
 ## [1.5.0] - 2023-07-09
 ### Changed
+- Improved grid file for Poland
 - Switched polygon data format to GeoJSON
 
 ## [1.4.0] - 2023-05-27
