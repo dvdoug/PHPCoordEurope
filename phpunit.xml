@@ -17,7 +17,7 @@
         <ini name="error_logging" value="-1"/>
     </php>
 
-    <coverage pathCoverage="true" cacheDirectory="build/php-code-coverage-cache">
+    <coverage pathCoverage="false" cacheDirectory="build/php-code-coverage-cache">
         <include>
             <directory suffix=".php">src</directory>
         </include>
@@ -25,7 +25,6 @@
         <report>
             <text outputFile="php://stdout" showOnlySummary="true"/>
             <html outputDirectory="build/coverage-phpunit"/>
-            <clover outputFile="build/coverage-phpunit/clover.xml"/>
         </report>
     </coverage>
 
