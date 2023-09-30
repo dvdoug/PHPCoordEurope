@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.6.0] - 2023-09-30
+### Added
+- New grid file for Germany
+
 ## [1.5.0] - 2023-07-09
 ### Changed
 - Improved grid file for Poland
@@ -34,7 +38,8 @@
 ## 1.0.0 - 2021-04-25
 Initial release
 
-[Unreleased]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.5.0...HEAD
+[Unreleased]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.6.0...HEAD
+[1.6.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.2.0...v1.3.0
