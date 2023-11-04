@@ -21,6 +21,7 @@
     },
     "config": {
         "preferred-install": {
+            "php-coord/*": "source",
             "*": "dist"
         },
         "sort-packages": true,

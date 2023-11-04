@@ -76,27 +76,27 @@ jobs:
       - name: Install dependencies (low)
         if: matrix.dependencies == 'lowest'
         run: |
-          composer update --prefer-lowest --no-interaction --prefer-dist --classmap-authoritative;
+          composer update --prefer-lowest --no-interaction --classmap-authoritative;
           composer show;
 
       - name: Install dependencies (high)
         if: matrix.dependencies == 'highest'
         run: |
-          composer update --no-interaction --prefer-dist --classmap-authoritative;
+          composer update --no-interaction --classmap-authoritative;
           composer show;
 
       - name: Install dependencies (latest)
         if: matrix.dependencies == 'latest'
         run: |
           composer config minimum-stability dev;
-          composer update --no-interaction --prefer-dist --classmap-authoritative;
+          composer update --no-interaction --classmap-authoritative;
           composer show
 
       - name: Install dependencies (force latest)
         if: matrix.dependencies == 'force_latest'
         run: |
           composer config minimum-stability dev;
-          composer update --no-interaction --prefer-dist --classmap-authoritative --ignore-platform-reqs;
+          composer update --no-interaction --classmap-authoritative --ignore-platform-reqs;
           composer show
 
       - name: PHPUnit
