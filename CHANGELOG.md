@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.7.0] - 2023-11-04
+### Changed
+- More aggressive buffering of extent polygons
+
 ## [1.6.0] - 2023-09-30
 ### Added
 - New grid file for Germany
@@ -19,6 +23,7 @@
 ## [1.3.0] - 2023-01-07
 ### Added
 - Vertical grid file for Iceland
+
 ### Changed
 - Improved polygon buffering
 
@@ -26,6 +31,7 @@
 ### Added
 - New grid files for Austria, France, Netherlands, Norway, Poland, Slovakia, Spain
 - Additional extent data for UK, Ukraine
+
 ### Changed
 - Compatible with PHPCoord v5
 
@@ -38,7 +44,8 @@
 ## 1.0.0 - 2021-04-25
 Initial release
 
-[Unreleased]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.6.0...HEAD
+[Unreleased]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.7.0...HEAD
+[1.7.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.4.0...v1.5.0
 [1.4.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.3.0...v1.4.0
