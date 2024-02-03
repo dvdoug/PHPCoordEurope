@@ -12,6 +12,6 @@ class IGNFHeightRGF93v2NGFIGN78CorsicaProvider implements GridProvider
 {
     public function provideGrid(): IGNFHeightGrid
     {
-        return new IGNFHeightGrid(__DIR__ . '/../../resources/RAC09.mnt');
+        return new IGNFHeightGrid(__DIR__ . '/../../resources/RAC23.mnt');
     }
 }
