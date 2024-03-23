@@ -17,11 +17,13 @@
         <ini name="error_logging" value="-1"/>
     </php>
 
-    <coverage pathCoverage="false" cacheDirectory="build/php-code-coverage-cache">
+    <source>
         <include>
             <directory suffix=".php">src</directory>
         </include>
+    </source>
 
+    <coverage pathCoverage="false" cacheDirectory="build/php-code-coverage-cache">
         <report>
             <text outputFile="php://stdout" showOnlySummary="true"/>
             <html outputDirectory="build/coverage-phpunit"/>
