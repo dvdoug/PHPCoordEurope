@@ -1,7 +1,7 @@
 Software
 --------
 
-Copyright (C) 2021-2024 Doug Wright
+Copyright (C) 2021-2025 Doug Wright
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Dataset
 -------
 
-EPSG Geodetic Parameter Dataset Copyright (C) 1994-2024 IOGP
+EPSG Geodetic Parameter Dataset Copyright (C) 1994-2025 IOGP
 
 Whilst every effort has been made to ensure the accuracy of the information contained in the EPSG Facilities, neither
 the IOGP nor any of its members past present or future warrants their accuracy or will, regardless of its or their
@@ -81,7 +81,8 @@ Grids from Instituto Geográfico Nacional, Institut Cartogràfic i Geològic de 
 Bundesamt für Eich- und Vermessungswesen, LVGL Saarland, Direção-Geral do Território,
 Nationaal Geografisch Instituut/Nicolas Simon/GFZ Data Services, Landmælingar Íslands,
 Nederlandse Samenwerking Geodetische Infrastructuur, GKU Bratislava, Statens Kartverk,
-Geodetska uprava Republike Slovenije and Bundesamt für Kartographie und Geodäsie
+Geodetska uprava Republike Slovenije, Bundesamt für Kartographie und Geodäsie,
+Českého úřadu zeměměřického a katastrálního and Budapesti Műszaki és Gazdaságtudományi Egyetem
 Creative Commons Attribution 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an "as-is" basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
@@ -473,5 +474,3 @@ O ILE PRAWO WŁAŚCIWE NIE STANOWI INACZEJ, W ŻADNYM WYPADKU LICENCJODAWCA NIE 
     Z wyjątkiem ograniczonego celu jakim jest publiczne wskazanie, że Utwór został licencjonowany na podstawie niniejszej Licencji, Creative Commons nie wyraża zgody na korzystanie przez strony ze znaku towarowego „Creative Commons”, ani żadnego innego związanego znaku towarowego, ani logo Creative Commons bez uprzedniej pisemnej zgody Creative Commons. Każde wykorzystanie, za zezwoleniem, musi być zgodne z aktualnymi wskazówkami korzystania ze znaku towarowego Creative Commons, jakie są publikowane na jego stronie internetowej lub w inny sposób regularnie udostępniane na wniosek. W celu uniknięcia wątpliwości niniejsze zastrzeżenie co do znaku towarowego nie jest częścią niniejszej Licencji.
 
     Z Creative Commons można skontaktować się pod adresem https://creativecommons.org/.
-
-
