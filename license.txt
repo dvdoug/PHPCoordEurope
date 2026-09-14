@@ -1,7 +1,7 @@
 Software
 --------
 
-Copyright (C) 2021-2025 Doug Wright
+Copyright (C) 2021-2026 Doug Wright
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Dataset
 -------
 
-EPSG Geodetic Parameter Dataset Copyright (C) 1994-2025 IOGP
+EPSG Geodetic Parameter Dataset Copyright (C) 1994-2026 IOGP
 
 Whilst every effort has been made to ensure the accuracy of the information contained in the EPSG Facilities, neither
 the IOGP nor any of its members past present or future warrants their accuracy or will, regardless of its or their
@@ -82,7 +82,10 @@ Bundesamt für Eich- und Vermessungswesen, LVGL Saarland, Direção-Geral do Ter
 Nationaal Geografisch Instituut/Nicolas Simon/GFZ Data Services, Landmælingar Íslands,
 Nederlandse Samenwerking Geodetische Infrastructuur, GKU Bratislava, Statens Kartverk,
 Geodetska uprava Republike Slovenije, Bundesamt für Kartographie und Geodäsie,
-Českého úřadu zeměměřického a katastrálního and Budapesti Műszaki és Gazdaságtudományi Egyetem
+Českého úřadu zeměměřického a katastrálního,
+Agency for Data Supply and Infrastructure (SDFI) / Danish Agency for Climate Data (KDS),
+National Land Survey of Finland,
+and Nordic Geodetic Commission (NKG_RF17vel)
 Creative Commons Attribution 4.0 International
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an "as-is" basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
@@ -190,6 +193,9 @@ Section 8 – Interpretation.
 Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the "Licensor." The text of the Creative Commons public licenses is dedicated to the public domain under the CC0 Public Domain Dedication. Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at creativecommons.org/policies, Creative Commons does not authorize the use of the trademark "Creative Commons" or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+
+Hungarian EOMA geoid (hu_bme_geoid2014.tif) from Department of Geodesy and Surveying, Budapest University of Technology and Economics
+Creative Commons Attribution-ShareAlike 4.0 International — https://creativecommons.org/licenses/by-sa/4.0/
 
 NTv2 grids from Federal Office of Topography swisstopo
 CC0 1.0 Universal

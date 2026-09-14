@@ -12,7 +12,7 @@
     ],
     "license": "(MIT and BSD-2-Clause and CC-BY-4.0 and CC-BY-3.0 and CC0-1.0 and etalab-2.0 and proprietary)",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "php-coord/php-coord": "^5.11.1"
     },
     "require-dev": {
