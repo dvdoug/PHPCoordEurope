@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [1.9.0] - 2026-10-10
+### Added
+- Grids for Denmark, Germany, Latvia, Lithunia, Norway, Slovenia, Svarlbard 
+
 ## [1.8.0] - 2026-09-14
 ### Added
 - New grid files for Austria, Corsica, Czechia, Denmark, Germany, Finland, Hungary and Portugal
@@ -50,7 +54,8 @@
 ## 1.0.0 - 2021-04-25
 Initial release
 
-[Unreleased]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.8.0...HEAD
+[Unreleased]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.9.0...HEAD
+[1.9.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.8.0...v1.9.0
 [1.8.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.7.0...v1.8.0
 [1.7.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.5.0...v1.6.0
