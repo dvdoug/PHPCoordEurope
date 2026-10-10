@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Changed
+- Updates to extents
 
 ## [1.9.0] - 2026-10-10
 ### Added
