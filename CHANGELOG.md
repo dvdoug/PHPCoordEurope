@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+### Added
+- Grid files for Latvia
 
 ## [1.9.1] - 2026-10-12
 ### Changed

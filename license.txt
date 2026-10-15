@@ -90,6 +90,7 @@ and Nordic Geodetic Commission (NKG_RF17vel)
 SLO-VTP2024.xyz from Geodetska uprava Republike Slovenije (https://www.e-prostor.gov.si/fileadmin/Podrocja/DKS/Drugo_razno/Transformacija_v_novi_VS/SLO-VTP2024.zip, downloaded 20261003)
 LKS92to2020NTv2.gsb from Latvijas Ģeotelpiskās informācijas aģentūra (https://www.lgia.gov.lv/en/node/1391, downloaded 20261004)
 LV'14 geoid (lv_lgia_lv14.tif) from Latvijas Ģeotelpiskās informācijas aģentūra via PROJ-data (https://cdn.proj.org/lv_lgia_lv14.tif, downloaded 20261004)
+LV14_2020 geoid (LV14_2020.gri) from Latvijas Ģeotelpiskās informācijas aģentūra (https://s3.storage.pub.lvdc.gov.lv/lgia-opendata/citi/LKS-2020_darba_faili/LV14_2020_latlon_30092026.7z, downloaded 20261015)
 FVR09 geoid (dk_sdfe_fvr09.tif) from Agency for Data Supply and Efficiency via PROJ-data (https://cdn.proj.org/dk_sdfe_fvr09.tif, downloaded 20261004)
 SVD2006 geoid (no_kv_arcgp-2006-sk.tif) from Kartverket via PROJ-data (https://cdn.proj.org/no_kv_arcgp-2006-sk.tif, downloaded 20261004)
 Creative Commons Attribution 4.0 International
