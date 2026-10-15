@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+
+## [1.10.0] - 2026-10-16
 ### Added
 - Grid files for Latvia
 
@@ -60,7 +62,8 @@
 ## 1.0.0 - 2021-04-25
 Initial release
 
-[Unreleased]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.9.1...HEAD
+[Unreleased]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.10.0...HEAD
+[1.10.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.9.1...v1.10.0
 [1.9.1]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.9.0...v1.9.1
 [1.9.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.8.0...v1.9.0
 [1.8.0]: https://github.com/dvdoug/PHPCoordEurope/compare/v1.7.0...v1.8.0
